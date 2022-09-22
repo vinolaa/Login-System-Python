@@ -1,0 +1,28 @@
+{
+    "Pessoas": [
+        {
+            "id": 0,
+            "username": "vinola",
+            "email": "vinola",
+            "password": "1234"
+        },
+        {
+            "id": 1,
+            "username": "gui",
+            "email": "sdfasdfasd",
+            "password": "sdfsdfdsf"
+        },
+        {
+            "id": 2,
+            "username": "julia",
+            "email": "sdfasdfasd",
+            "password": "sdfsdfdsf"
+        },
+        {
+            "id": 3,
+            "username": "a",
+            "email": "a",
+            "password": "a"
+        }
+    ]
+}
